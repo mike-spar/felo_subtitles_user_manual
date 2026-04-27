@@ -14,7 +14,6 @@ icon: clock-rotate-left
 <figure><img src="../.gitbook/assets/web-manual-history-list.png" alt=""><figcaption><p>历史记录一览</p></figcaption></figure>
 
 * **标题**：翻译启动时自动生成（例如翻译YouTube视频时，标题与网页标题一致）。无标题的记录显示为空。
-* **来源标签**：每条记录会标注来源（如 `OTHERS`），用于区分不同的翻译场景。
 * **翻译内容**：展示该会话首条翻译的原文和译文，方便快速识别。
 * **时间戳**：翻译开始的日期和时间。
 * **下载按钮（⬇）**：将该条翻译记录的全部内容导出为 txt 文件。
@@ -22,15 +21,17 @@ icon: clock-rotate-left
 
 ## 记录详情
 
-点击任意一条记录可进入详情页，查看完整的双语对照内容，并可使用右侧「AI 总结」对整段会话进行智能摘要。
+点击任意一条记录可进入详情页。详情页顶部有「**总结**」和「**转录**」两个标签：「**总结**」展示由 AI Agent 生成的结构化摘要，「**转录**」展示完整的双语对照原文。
 
-<figure><img src="../.gitbook/assets/web-manual-history-detail.png" alt=""><figcaption><p>历史记录详情页（含 AI 总结）</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/web-manual-history-detail.png" alt=""><figcaption><p>历史记录详情页（总结 / 转录 标签）</p></figcaption></figure>
 
 ## AI Agent — 会议总结模板
 
-进入会议详情页后，可调用「**AI Agent**」根据不同会议场景生成结构化总结。点开后会弹出模板选择面板，目前提供 5 种模板：
+进入会议详情页后，可调用「**AI Agent**」根据不同会议场景生成结构化总结或翻译。面板顶部分为「**总结**」和「**翻译**」两个 Tab：「总结」用于生成会议摘要，「翻译」用于按指定风格翻译会议内容。
 
-<figure><img src="../.gitbook/assets/web-manual-ai-agent-templates.png" alt=""><figcaption><p>AI Agent 模板选择面板</p></figcaption></figure>
+「总结」Tab 下目前提供 5 种模板：
+
+<figure><img src="../.gitbook/assets/web-manual-ai-agent-templates.png" alt=""><figcaption><p>AI Agent 模板选择面板（总结 / 翻译）</p></figcaption></figure>
 
 | 模板 | 使用场景 |
 | --- | --- |
