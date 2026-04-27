@@ -5,6 +5,8 @@ icon: circle-chevron-right
 
 # 浏览器安装（Chrome插件版）
 
+> ⚠️ **注意**：Chrome 插件版仅支持 **Felo 海外版**，不支持国内版。
+
 通过下述步骤，可以将Felo字幕作为浏览器插件安装到PC端的浏览器里。（chrome浏览器）
 
 1.在官网点击“添加至Chrome”按钮。

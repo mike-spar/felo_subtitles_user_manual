@@ -1,5 +1,7 @@
 # 插件版卸载方法
 
+> ⚠️ **注意**：Chrome 插件版仅支持 **Felo 海外版**，不支持国内版。
+
 如下图，点击“扩展程序”弹出下拉菜单，再点击3个点弹出Felo字幕关联菜单，选择“从Chrome移除”
 
 <div align="left"><figure><img src="../../.gitbook/assets/uninstall-1.png" alt=""><figcaption></figcaption></figure></div>

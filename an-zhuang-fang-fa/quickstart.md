@@ -7,7 +7,10 @@ icon: circle-chevron-right
 
 通过下述步骤，可以将Felo字幕安装到个人电脑上（windows操作系统）。
 
-1.访问Felo字幕官网。（[https://subtitles.felo.cc/](https://subtitles.felo.cc/)）
+1.访问Felo字幕官网。
+
+* 国内访问：[https://subtitles.felo.cc/](https://subtitles.felo.cc/)
+* 国外访问：[https://subtitles.felo.me/](https://subtitles.felo.me/)
 
 {% hint style="info" %}
 网站的语言不是您想要的语种的话，请在页面的右下方语言变换处选择您的语言。\
